@@ -8,4 +8,4 @@ print(type(name) == str )
 name = "Jhon"
 result = isinstance(name, str) #True
 
-print("varibale name is string ? ",result)
+print("variable name is string ? ",result)
