@@ -18,7 +18,6 @@ print(name)
 #Convert number to string
 print("Jhon is " + str(8) + " years old") #Jhon is 8 years old
 
-
 print("""Jhon is
     8
 years old
@@ -53,6 +52,5 @@ print('First line.\nSecond line.')
 
 #long string
 text = ('Put several strings within parentheses '
-
         'to have them joined together.')
 print(text)
