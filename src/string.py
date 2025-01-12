@@ -41,3 +41,18 @@ print(len(name)) #5
 #in
 name = "Jhon"
 print("hon" in name) #True
+
+# use \' to escape the single quote.
+print("Jhon \' is age 30 year old ago")
+
+# ...or use double quotes instead
+print('"Yes," they said.')
+
+# \n means newline
+print('First line.\nSecond line.')
+
+#long string
+text = ('Put several strings within parentheses '
+
+        'to have them joined together.')
+print(text)
